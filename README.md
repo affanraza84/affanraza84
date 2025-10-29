@@ -52,7 +52,7 @@
 ### 📈 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=affanraza84&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" />
+<!-- <img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" /> -->
 
 </p>
 
@@ -63,16 +63,6 @@
 - 🤖 [Chatting App](https://chatting-app-smoky-zeta.vercel.app/) – Real-time chat with Socket.io + MongoDB  
 - 🌍 [E-Commerce Site](https://lehenga-s-ite-pxx6.vercel.app) – Lehenga sales platform built on MERN stack  
 - 🛒 [Bakery E-commerce Site](https://kajal-products-new-v7eq.vercel.app) – MERN stack business app  
-
----
-
-### 🐍 Contribution Graph (Just for Fun)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/affanraza84/affanraza84/output/github-contribution-grid-snake.svg" />
-
-</p>
-
-*(To enable this: use GitHub Action [Platane/snk](https://github.com/Platane/snk) in your repo — it auto-generates this animation.)*
 
 ---
 
