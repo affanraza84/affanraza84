@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,0,10,30,60,90&height=180&section=header&text=Mohammad%20Affan%20Raza&fontSize=40&fontColor=ffffff&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2e026d,100:c471ed&text=Mohammad%20Affan%20Raza&fontColor=ffffff&fontSize=45&fontAlign=50&height=160&animation=fadeIn)
+
 
 
 <!-- <h1 align="center">Hey 👋, I'm Mohammad Affan Raza</h1> -->
