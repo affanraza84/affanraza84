@@ -51,7 +51,7 @@
 
 ### 📈 GitHub Analytics  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=affanraza84" />
 <!-- <img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" /> -->
 
 </p>
