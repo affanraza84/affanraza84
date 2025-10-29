@@ -30,7 +30,7 @@
 ---
 
 ### 🧠 Tech Arsenal  
-**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, GSAP, Tailwind CSS, Framer-motion 
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, GSAP, Tailwind CSS, Framer-motion
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL  
 **DevOps & Tools:** Git, GitHub Actions, Docker (learning), Postman, CI/CD, VS Code  
 **Course Works:** Data Structures, Object Oriented Programming 
