@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2e026d,100:c471ed&text=Mohammad%20Affan%20Raza&fontColor=ffffff&fontSize=45&fontAlign=50&height=160&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:00c6ff,100:0072ff&height=180&section=header&text=Mohammad%20Affan%20Raza&fontSize=45&fontAlignY=35&fontColor=fff&animation=twinkling)
+
 
 
 
