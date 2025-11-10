@@ -1,18 +1,23 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=180&section=header&text=Mohammad%20Affan%20Raza&fontSize=40&fontColor=fff)
 
-
-
-
-
-
-<!-- <h1 align="center">Hey 👋, I'm Mohammad Affan Raza</h1> -->
 <h3 align="center">🚀 Full Stack Developer | AI Explorer | DevOps Learner</h3>
 
 <p align="center">
   <a href="https://github.com/affanraza84"><img src="https://img.shields.io/github/followers/affanraza84?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/mohammad-affan-raza-b6039b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://www.linkedin.com/in/mohammad-affan-raza-b6039b288"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="mailto:affanraza8081@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red"></a>
 </p>
+
+---
+
+### 🎯 Professional Experience – Current Internship  
+💼 **Frontend Engineer Intern @ BinaryFlo (Remote | 2025 - Present)**  
+- Developing production-grade UI using **Next.js, TailwindCSS & TypeScript**
+- Contributing to component-based architecture and reusable design system
+- Optimizing Lighthouse scores and enabling pixel-perfect responsive design
+- Performing iterative development under sprint-based agile workflows
+
+> *Delivering modular, scalable UI flows that transition seamlessly from concept to production.*
 
 ---
 
@@ -27,11 +32,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 Building **AI-powered full stack web apps**  
-- 🌱 Learning **DevOps, DSA, and Generative AI**  
-- 💡 Exploring how **AI blends with scalable cloud systems**  
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, or Vapi AI**  
-- ⚙️ Mission: Becoming a **Full Stack + AI + DevOps Engineer**  
+- 🔭 Engineering **AI-powered full stack web apps**
+- 🌱 Learning **DevOps, DSA, and Generative AI**
+- 💡 Exploring scalable cloud + AI based architectures
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Vapi AI**
+- ⚙️ Mission: Become a **Full Stack + AI + DevOps Engineer**
 - ☕ Debug mode: Fueled by coffee, curiosity, and clean commits  
 
 > “Turning ideas into interfaces and logic into impact.”
@@ -41,7 +46,7 @@
 ### 🧠 Tech Arsenal  
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, GSAP, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL  
-**DevOps & Tools:** Git, GitHub Actions, Docker (learning), Postman, CI/CD, VS Code  
+**DevOps & Tools:** Git, GitHub Actions, Docker, Postman, CI/CD, VS Code  
 **Coursework:** Data Structures, Object-Oriented Programming  
 **Languages:** C/C++, JavaScript, Python, Java  
 
@@ -57,8 +62,7 @@
 ### 📈 GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=affanraza84" />
-<!-- <img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" /> -->
-
+  <!-- <img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" /> -->
 </p>
 
 ---
@@ -80,7 +84,7 @@
 
 ### 📬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-affan-raza-b6039b288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-affan-raza-b6039b288"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:affanraza8081@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://x.com/AffanRaza485434?t=eUFzGZNdjLS63ccgEBTIPA&s=09"><img src="https://img.icons8.com/ios-filled/48/ffffff/x.png" style="background-color:#000; border-radius:8px; padding:5px;"/></a>
 </p>
