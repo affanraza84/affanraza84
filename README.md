@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=180&section=header&text=Mohammad%20Affan%20Raza&fontSize=40&fontColor=fff)
 
-<h3 align="center">🚀 Full Stack Developer | AI Explorer | DevOps Learner</h3>
+<h3 align="center">Full Stack Developer | AI Explorer | DevOps Learner</h3>
 
 <p align="center">
   <a href="https://github.com/affanraza84"><img src="https://img.shields.io/github/followers/affanraza84?label=Follow&style=social"></a>
@@ -10,8 +10,8 @@
 
 ---
 
-### 🎯 Professional Experience – Current Internship  
-💼 **Frontend Engineer Intern @ BinaryFlo (Remote | 2025 - Present)**  
+### Professional Experience – Current Internship  
+**Frontend Engineer Intern @ BinaryFlo (Remote | 2025 - Present)**  
 - Developing production-grade UI using **Next.js, TailwindCSS & TypeScript**
 - Contributing to component-based architecture and reusable design system
 - Optimizing Lighthouse scores and enabling pixel-perfect responsive design
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧩 Current DevOps Journey  
+### Current DevOps Journey  
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-Learning-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
   <img src="https://img.shields.io/badge/CI/CD-Building-informational?style=for-the-badge&logo=githubactions&logoColor=white&color=181717" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 👨‍💻 About Me  
+### About Me  
 - 🔭 Engineering **AI-powered full stack web apps**
 - 🌱 Learning **DevOps, DSA, and Generative AI**
 - 💡 Exploring scalable cloud + AI based architectures
@@ -43,7 +43,7 @@
 
 ---
 
-### 🧠 Tech Arsenal  
+### Tech Arsenal  
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, GSAP, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL  
 **DevOps & Tools:** Git, GitHub Actions, Docker, Postman, CI/CD, VS Code  
@@ -52,14 +52,14 @@
 
 ---
 
-### ⚡ Coding Activity Pulse  
+### Coding Activity Pulse  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=affanraza84&theme=tokyo-night" alt="Affan's GitHub Activity Graph" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics  
+### GitHub Analytics  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=affanraza84" />
   <!-- <img width="48%" src="https://streak-stats.demolab.com/?user=affanraza84&theme=tokyonight" /> -->
@@ -67,7 +67,7 @@
 
 ---
 
-### 💼 Featured Projects  
+### Featured Projects  
 - 🌐 [Portfolio Website](https://affan-portfolio-kappa.vercel.app) – Next.js + Tailwind + animations  
 - 🤖 [Chatting App](https://chatting-app-smoky-zeta.vercel.app/) – Real-time chat with Socket.io + MongoDB  
 - 🌍 [E-Commerce Site](https://lehenga-s-ite-pxx6.vercel.app) – Lehenga sales platform built on MERN stack  
@@ -75,14 +75,14 @@
 
 ---
 
-### 🚀 Currently Exploring  
+### Currently Exploring  
 - 🧱 AI-integrated microservices with Node.js + Python  
 - 🧰 CI/CD pipelines, Docker, and Cloud Deployments  
 - 💬 Open Source Contributions & Hackathons  
 
 ---
 
-### 📬 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-affan-raza-b6039b288"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:affanraza8081@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
