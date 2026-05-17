@@ -10,12 +10,10 @@
 
 ---
 
-### Professional Experience – Current Internship  
-**Frontend Engineer Intern @ BinaryFlo (Remote | 2025 - Present)**  
-- Developing production-grade UI using **Next.js, TailwindCSS & TypeScript**
-- Contributing to component-based architecture and reusable design system
-- Optimizing Lighthouse scores and enabling pixel-perfect responsive design
-- Performing iterative development under sprint-based agile workflows
+### Professional Summary  
+Engineering modern digital experiences through scalable full stack architectures, performant frontend systems, and efficient backend infrastructures. Specialized in JavaScript-based ecosystems with hands-on experience in React, Next.js, Node.js, databases, and deployment workflows.
+
+Focused on shipping impactful products, writing maintainable code, and building systems designed for scale, reliability, and seamless user experience.
 
 > *Delivering modular, scalable UI flows that transition seamlessly from concept to production.*
 
