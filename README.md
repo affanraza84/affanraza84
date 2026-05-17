@@ -59,8 +59,8 @@ Focused on shipping impactful products, writing maintainable code, and building 
 ### GitHub Analytics  
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=affanraza84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=affanraza84&theme=tokyonight&hide_border=true&background=0D1117" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=affanraza84&theme=tokyonight" />
 </p>
 
 ---
