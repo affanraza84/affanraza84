@@ -34,7 +34,6 @@ Focused on shipping impactful products, writing maintainable code, and building 
 - 🌱 Learning **DevOps, DSA, and Generative AI**
 - 💡 Exploring scalable cloud + AI based architectures
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Vapi AI**
-- ⚙️ Mission: Become a **Full Stack + AI + DevOps Engineer**
 - ☕ Debug mode: Fueled by coffee, curiosity, and clean commits  
 
 > “Turning ideas into interfaces and logic into impact.”
@@ -45,7 +44,7 @@ Focused on shipping impactful products, writing maintainable code, and building 
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, GSAP, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, MySQL, PostgreSQL  
 **DevOps & Tools:** Git, GitHub Actions, Docker, Postman, CI/CD, VS Code  
-**Coursework:** Data Structures, Object-Oriented Programming  
+**Coursework:** Data Structures, Object-Oriented Programming, Database Management System, Operating System
 **Languages:** C/C++, JavaScript, Python, Java  
 
 ---
