@@ -11,7 +11,7 @@
 ---
 
 ### Professional Summary  
-Engineering modern digital experiences through scalable full stack architectures, performant frontend systems, and efficient backend infrastructures. Specialized in JavaScript-based ecosystems with hands-on experience in React, Next.js, Node.js, databases, and deployment workflows.
+Engineering modern digital experience through scalable full stack architectures, performant frontend systems, and efficient backend infrastructures. Specialized in JavaScript-based ecosystems with hands-on experience in React, Next.js, Node.js, databases, and deployment workflows.
 
 Focused on shipping impactful products, writing maintainable code, and building systems designed for scale, reliability, and seamless user experience.
 
