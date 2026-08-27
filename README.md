@@ -38,11 +38,7 @@
   <h4>Full Stack Developer | Open Source Contributor</h4>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-3ogz-80iqdji1z.vercel.app/api?username=affanraza84&&show_icons=true&theme=radical"/> </a> </p>
 
 <br />
 
