@@ -38,20 +38,26 @@
   <h4>Full Stack Developer | Open Source Contributor</h4>
 </p>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=affanraza84&show_icons=true&theme=radical&hide_border=true"
-    alt="Affan's GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=affanraza84&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Stats"
   />
 </p>
-<br />
 
-<h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=affanraza84&theme=react-dark&hide_border=true"
-    width="90%"
-    alt="Affan's GitHub Activity Graph"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=affanraza84&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=affanraza84&theme=radical&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
