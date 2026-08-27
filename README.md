@@ -39,11 +39,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=affanraza84&show_icons=true&theme=radical"/>
-  </a>
+  <img
+    src="https://github-readme-stats-3ogz-80iqdji1z.vercel.app/api?username=affanraza84&show_icons=true&theme=radical"
+    alt="Affan's GitHub Stats"
+  />
 </p>
-
 <br />
 
 <h2 align="center">📊 GitHub Analytics</h2>
