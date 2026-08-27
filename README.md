@@ -38,7 +38,18 @@
   <h4>Full Stack Developer | Open Source Contributor</h4>
 </p>
 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-3ogz-80iqdji1z.vercel.app/api?username=affanraza84&&show_icons=true&theme=radical"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=affanraza84&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<br />
+
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=affanraza84&theme=react-dark&hide_border=true" width="90%" />
+</p>
 
 <br />
 
