@@ -26,7 +26,7 @@
   <h3>Mathematics and Computing student from BIT Mesra</h3>
 </p>
 
-- 🥀 Learning **DevOps & Generative AI**
+- 🥀 **DevOps & Generative AI**
 - <i>with JavaScript, TypeScript, React, Next.js, Node.js and a few others.</i>
 - 🔭 Building things that break gracefully, and shipping anyway
 - 🛸 Into scalable architecture and clean systems — debugging is basically therapy for me
