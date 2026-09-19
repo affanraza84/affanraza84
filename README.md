@@ -31,7 +31,6 @@
 - 🔭 Building things that break gracefully, and shipping anyway
 - 🛸 Into scalable architecture and clean systems — debugging is basically therapy for me
 - I do fullstack and a bit of everything :heart:
-- Lazy enough to automate the boring stuff, dedicated enough to never half-ship anything.
 - 💬 Connect? let's get social 👉🏼 [<img src="https://cdn.simpleicons.org/x/ffffff" height="20">](https://twitter.com/AffanRaza485434)
 
 <p align="center">
